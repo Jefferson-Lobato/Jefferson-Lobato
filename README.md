@@ -1,7 +1,7 @@
 <h1>👋 Olá!</h1> <h3>Sou Jefferson Lobato.</h3>
 Desenvolvedor Front-End com experiência em HTML, CSS, JavaScript, React e Git. 
 <br>Apaixonado por construir interfaces modernas, responsivas e centradas na experiência do usuário.
-
+<br><br>
 🔧 Este repositório reúne projetos que demonstram minha prática com tecnologias front-end e meu compromisso com o aprendizado contínuo.
 
 <h3>Tecnologias e Ferramentas:</h3>
